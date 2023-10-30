@@ -31,7 +31,7 @@ Simple Shell written in C, it should:
   - env with no options or arguments
   - exit with no options
  
-  - # usage
+  # usage
   ```bash
   make
   ./minishell
